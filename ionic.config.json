@@ -1,0 +1,8 @@
+{
+  "name": "olympia_trainer",
+  "app_id": "485eacdd",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
